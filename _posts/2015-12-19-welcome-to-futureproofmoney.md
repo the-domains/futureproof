@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is the home of Money Journey Media
-datePublished: '2015-12-19T16:04:25.098Z'
-dateModified: '2015-12-18T16:02:45.507Z'
+datePublished: '2015-12-19T16:04:28.432Z'
+dateModified: '2015-12-19T16:04:25.098Z'
 title: Welcome to futureproofmoney
 author: []
 authors: []
