@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Over the years, Pádraig Floyd has been very lucky to be recognised by the industry for his work writing about it.  Here is a list of those awards he has won and been shortlisted for.'
-datePublished: '2015-12-28T17:39:17.740Z'
-dateModified: '2015-12-28T17:34:25.285Z'
+datePublished: '2015-12-30T20:21:40.246Z'
+dateModified: '2015-12-30T20:21:36.801Z'
 title: "Industry honours &\_awards"
 author: []
+sourcePath: _posts/2015-12-28-industry-honours-and-awards.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-28-industry-honours-and-awards.md
-published: true
 url: industry-honours-and-awards/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Industry honours & awards
