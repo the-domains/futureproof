@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-28T17:39:18.485Z'
-dateModified: '2015-12-28T17:39:00.202Z'
+datePublished: '2015-12-30T20:22:20.085Z'
+dateModified: '2015-12-30T20:22:18.074Z'
 title: Making digital vision a reality
 author: []
+sourcePath: _posts/2015-12-28-making-digital-vision-a-reality.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-28-making-digital-vision-a-reality.md
-published: true
 url: making-digital-vision-a-reality/index.html
-_type: Article
+_type: WebPage
 
 ---
 ****
