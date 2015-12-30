@@ -1,6 +1,6 @@
 name: futureproof
 favicon: null
-layout_spectrum: 0.7340135227423161
+layout_spectrum: 0.92857
 typography_spectrum: 0.5488742492161691
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0
-  lightness: 0.507153068901971
-  saturation: 0.20633872644975781
-  rhythmicContrast: 0.3975390400737524
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
