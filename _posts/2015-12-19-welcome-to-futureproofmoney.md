@@ -1,30 +1,28 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: This is the home of Money Journey Media
-datePublished: '2015-12-19T16:04:31.190Z'
-dateModified: '2015-12-19T16:04:28.432Z'
+datePublished: '2015-12-30T20:22:03.448Z'
+dateModified: '2015-12-30T20:21:56.075Z'
 title: Welcome to futureproofmoney
 author: []
+sourcePath: _posts/2015-12-19-welcome-to-futureproofmoney.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-19-welcome-to-futureproofmoney.md
-published: true
 url: welcome-to-futureproofmoney/index.html
-_type: Article
+_type: WebPage
 
 ---
-**"When I was young I thought that money was the most important thing in life.****Now that I am old, I know that it is." **
-
-Oscar Wilde
+**"When I was young I thought that money was the most important thing in life. ****Now that I am old, I know that it is." **Oscar Wilde
 
 Life is a journey, but without money, you're going nowhere. And fast.
 
