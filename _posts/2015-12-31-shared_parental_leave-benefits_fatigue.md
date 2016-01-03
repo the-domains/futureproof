@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.reedglobal.com'
-  name: Reedglobal
-  favicon: 'https://www.reedglobal.com/reedglobal-theme/images/liferay.ico'
-  domain: www.reedglobal.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: true
 keywords:
   - benefit
   - curzon
@@ -18,17 +16,21 @@ keywords:
   - manager
   - lifestyle
 description: 'One of the biggest risks for employers with generous or engaging benefits schemes is employees getting benefit fatigue - in other words, so used to the benefits they fail to value them any longer. Andrew Drake, head of reward & benefits at JLT Employee Benefits, likens this to the ceaseless development of the Apple iPhone.'
-inLanguage: en
+datePublished: '2016-01-03T10:48:58.685Z'
+dateModified: '2015-12-31T07:48:41.417Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.reedglobal.com/en_GB/web/reedgb/viewpoints/hr/article/-/asset_publisher/Gms7a857bmkI/content/shared_parental_leave-benefits_fatigue?modex=full&trending'
-title: Shared_parental_leave-Benefits_fatigue
-datePublished: '2015-12-31T07:42:45.466Z'
-dateModified: '2015-12-31T07:40:16.489Z'
+title: "HR Viewpoints –\_Benefits fatigue and how to combat it"
 sourcePath: _posts/2015-12-31-shared_parental_leave-benefits_fatigue.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Reedglobal
+  domain: www.reedglobal.com
+  url: 'https://www.reedglobal.com'
+  favicon: 'https://www.reedglobal.com/reedglobal-theme/images/liferay.ico'
+url: hr-viewpoints-benefits-fatigue-and-how-to-combat-it/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
