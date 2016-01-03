@@ -1,26 +1,26 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: true
+keywords: []
+description: ''
+datePublished: '2016-01-03T10:47:53.651Z'
+dateModified: '2016-01-03T10:47:50.344Z'
 author: []
 related: []
+app_links: []
+title: 'Raconteur - Employee Engagement & Benefits'
+sourcePath: _posts/2015-12-31-raconteur-employee-engagement-and-benefits.md
+published: true
+authors: []
 publisher:
   name: Uberflip
   domain: raconteur.uberflip.com
   url: 'https://raconteur.uberflip.com'
   favicon: 'https://uberflip.cdntwrk.com/files/dD0xNTA3NzgmY21kPWZhdmljb24mdmVyc2lvbj0xNDQ4NDc2OTAwJmV4dD1wbmcmc2l6ZT0xOTUmc2lnPTMyNWIyNDdhYmI5MGQzMWJiYzExYmRkMWE5OWZjNGFm/favicon.png'
-keywords: []
-description: ''
-app_links: []
-isBasedOnUrl: 'https://raconteur.uberflip.com/i/577243-employee-engagement-benefits'
-title: 'Raconteur - Employee Engagement & Benefits'
-datePublished: '2015-12-31T07:42:45.416Z'
-dateModified: '2015-12-31T07:42:06.609Z'
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
-authors: []
-sourcePath: _posts/2015-12-31-raconteur-employee-engagement-and-benefits.md
-published: true
+url: raconteur-employee-engagement-and-benefits/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
