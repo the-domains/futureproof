@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  name: Portfolio-institutional
-  domain: www.portfolio-institutional.co.uk
-  url: 'http://www.portfolio-institutional.co.uk'
-  favicon: 'http://www.portfolio-institutional.co.uk/wp-content/themes/pi/favicon.ico'
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: true
 keywords:
   - login
   - equity
@@ -18,21 +16,23 @@ keywords:
   - primacy
   - investors
 description: 'We use cookies to support features like login and allow trusted media partners to analyse aggregated site usage. To dismiss this message and allow cookies to be used, please click "Continue".'
-inLanguage: en
+datePublished: '2016-01-03T10:57:04.801Z'
+dateModified: '2016-01-03T10:56:58.348Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.portfolio-institutional.co.uk/features/equity/how-low-can-you-go/'
 title: 'portfolio institutional | Low volatility equities: how low can you go?'
-datePublished: '2016-01-03T10:49:05.087Z'
-dateModified: '2015-12-31T07:48:56.081Z'
 sourcePath: _posts/2015-12-31-portfolio-institutional-or-low-volatility-equities-how-low-c.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
 authors: []
+publisher:
+  name: Portfolio-institutional
+  domain: www.portfolio-institutional.co.uk
+  url: 'http://www.portfolio-institutional.co.uk'
+  favicon: 'http://www.portfolio-institutional.co.uk/wp-content/themes/pi/favicon.ico'
+url: portfolio-institutional-or-low-volatility-equities-how-low-c/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>portfolio institutional &amp;vert; Low volatility equities&amp;colon; how low can you go&amp;quest;</h1><p>We use cookies to support features like login and allow trusted media partners to analyse aggregated site usage&amp;period; To dismiss this message and allow cookies to be used&amp;comma; please click "Continue"&amp;period;</p><img src="http://www.portfolio-institutional.co.uk/wp-content/uploads/2015/10/How-low-can-you-go_pg34-515x732.jpg" /></article>
+<article style=""><h1>Low volatility equities: how low can you go?</h1><p>Low volatility equity strategies have been popular with investors seeking safe and secure income. But are they in danger of becoming victims of their own success? Pádraig Floyd finds out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef7c2d1f4de10bbb7fbb4dc3ef06de59b51826b7.jpg" /></article>
