@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.reedglobal.com'
-  name: Reedglobal
-  favicon: 'https://www.reedglobal.com/reedglobal-theme/images/liferay.ico'
-  domain: www.reedglobal.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: true
 keywords:
   - employees
   - benefits
@@ -18,17 +16,21 @@ keywords:
   - workforce
   - cost
 description: 'The best marketing resource any business can have is its workforce. A Reed survey found that 58% of employees grumble about their benefits package, but at the same time a benefits package was cited as the third-most important factor for jobseekers at 30% (behind brand image and reputation, which scored 37%, and salary at 33%).'
-inLanguage: en
+datePublished: '2016-01-03T10:48:50.013Z'
+dateModified: '2015-12-31T07:48:06.942Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.reedglobal.com/en_GB/web/reedgb/viewpoints/hr/article/-/asset_publisher/Gms7a857bmkI/content/shared_parental_leave-benefits_package?modex=full&trending'
-title: shared_parental_leave-benefits_package
-datePublished: '2015-12-31T07:42:45.454Z'
-dateModified: '2015-12-31T07:40:30.128Z'
+title: "HR Viewpoints –\_What is a benefits package worth?"
 sourcePath: _posts/2015-12-31-shared_parental_leave-benefits_package.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Reedglobal
+  domain: www.reedglobal.com
+  url: 'https://www.reedglobal.com'
+  favicon: 'https://www.reedglobal.com/reedglobal-theme/images/liferay.ico'
+url: hr-viewpoints-what-is-a-benefits-package-worth/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
