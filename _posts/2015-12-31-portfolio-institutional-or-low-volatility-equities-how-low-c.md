@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.portfolio-institutional.co.uk'
   name: Portfolio-institutional
-  favicon: 'http://www.portfolio-institutional.co.uk/wp-content/themes/pi/favicon.ico'
   domain: www.portfolio-institutional.co.uk
+  url: 'http://www.portfolio-institutional.co.uk'
+  favicon: 'http://www.portfolio-institutional.co.uk/wp-content/themes/pi/favicon.ico'
 keywords:
   - login
   - equity
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.portfolio-institutional.co.uk/features/equity/how-low-can-you-go/'
 title: 'portfolio institutional | Low volatility equities: how low can you go?'
-datePublished: '2015-12-31T07:42:45.755Z'
-dateModified: '2015-12-31T07:40:12.322Z'
+datePublished: '2016-01-03T10:49:05.087Z'
+dateModified: '2015-12-31T07:48:56.081Z'
 sourcePath: _posts/2015-12-31-portfolio-institutional-or-low-volatility-equities-how-low-c.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
