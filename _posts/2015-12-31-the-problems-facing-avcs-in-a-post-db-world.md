@@ -2,23 +2,25 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.professionalpensions.com'
   name: www.professionalpensions.com
-  favicon: 'http://www.professionalpensions.com/favicon.ico'
   domain: www.professionalpensions.com
+  url: 'http://www.professionalpensions.com'
+  favicon: 'http://www.professionalpensions.com/favicon.ico'
 keywords: []
 description: "It is fair to say reviewing AVC schemes is not high on trustees' agendas. However, Padraig Floyd looks at why this area needs more attention.,Defined Benefit ,AVCs,Pitmans Trustees,Goddard Perry,Aviva,NAPF,ABI"
 inLanguage: ca
 app_links: []
 isBasedOnUrl: 'http://www.professionalpensions.com/professional-pensions/feature/2430373/the-problems-facing-avcs-in-a-post-db-world'
 title: The problems facing AVCs in a post-DB world
-datePublished: '2015-12-31T07:42:45.759Z'
-dateModified: '2015-12-31T07:39:42.320Z'
+datePublished: '2016-01-03T10:49:11.750Z'
+dateModified: '2015-12-31T07:49:01.279Z'
 sourcePath: _posts/2015-12-31-the-problems-facing-avcs-in-a-post-db-world.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
