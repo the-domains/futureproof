@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Companies struggling under the strain of maintaining an expensive pension scheme have options which could ease the burden, writes Pádraig Floyd'
-datePublished: '2015-12-30T20:13:41.916Z'
-dateModified: '2015-12-30T20:13:25.302Z'
+datePublished: '2016-01-03T10:49:16.114Z'
+dateModified: '2015-12-31T07:49:03.763Z'
 author: []
 title: How companies can alleviate pensions risk
 authors: []
